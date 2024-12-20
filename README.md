@@ -1,7 +1,7 @@
 ### Olá, meu nome Daniele! 👩‍💻
-<p align="center">
+
 ![cat](https://github.com/danieleksantos/danieleksantos/blob/main/gif%20cat.gif?raw=true)
-</p>
+
 ❤️ Minha paixão pela tecnologia vem de um fascínio e curiosidade constantes por tudo que ela pode oferecer. <br>
  😃Aprender algo novo todos os dias é o que me motiva e me impulsiona a buscar soluções criativas. <br>
  🔨Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento. <br>
@@ -36,6 +36,8 @@
 | Google UX Design              | [ ] 200h | Coursera: Google+CIEE|
 
 ---
+
+![Daniele Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleksantos&size_weight=0.5&count_weight=0.5)
 ![Daniele GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleksantos&show_icons=true&theme=radical)    
           
 
