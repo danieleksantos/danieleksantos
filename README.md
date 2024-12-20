@@ -19,23 +19,29 @@
 🌱 No momento estou estudando:
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=100px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=100px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=100px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=100px/>
+🌱 No momento estou estudando:
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px"/>
+</div>
+
 
   
 ------------
 
-| Cursos                        | Status  | Certificação        |
----         
-| Ri Happy - Front-End do Zero  | [x]75h  | Dio                 | 
-| Algoritmo                     | [x]40h  | Curso em Vídeo      |
-| Google UX Design              | [ ]200h | Cousera: Google+CIEE|
 
+| Cursos                        | Status   | Certificação         |
+|-------------------------------|----------|----------------------|
+| Ri Happy - Front-End do Zero  | [x] 75h  | Dio                  |
+| Algoritmo                     | [x] 40h  | Curso em Vídeo       |
+| Formação Githut Certification | [x] 10h  | Dio                  |
+| Google UX Design              | [ ] 200h | Coursera: Google+CIEE|
 
-                    
-          
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)    
           
 
 <!--
