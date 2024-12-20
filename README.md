@@ -27,17 +27,16 @@
 </p>
   
 ------------
-<p align="center">
 | Cursos                        | Status   | Certificação         |
 |-------------------------------|----------|----------------------|
 | Ri Happy - Front-End do Zero  | [x] 75h  | Dio                  |
 | Algoritmo                     | [x] 40h  | Curso em Vídeo       |
 | Formação Githut Certification | [x] 10h  | Dio                  |
 | Google UX Design              | [ ] 200h | Coursera: Google+CIEE|
-</p>
+
 ---
 
-![Daniele Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleksantos&size_weight=0.5&count_weight=0.5)
+![Daniele Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleksantos&size_weight=0.5&count_weight=0.5&theme=dracula)
 ![Daniele GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleksantos&show_icons=true&theme=radical)    
           
 
