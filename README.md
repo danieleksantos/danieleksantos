@@ -17,8 +17,26 @@
 
 
 🌱 No momento estou estudando:
- HTML, CSS e JavaScript
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=100px/>
+
+  
+------------
+
+| Cursos                        | Status  | Certificação        |
+---         
+| Ri Happy - Front-End do Zero  | [x]75h  | Dio                 | 
+| Algoritmo                     | [x]40h  | Curso em Vídeo      |
+| Google UX Design              | [ ]200h | Cousera: Google+CIEE|
+
+
+                    
+          
+          
 
 <!--
 Here are some ideas to get you started:
