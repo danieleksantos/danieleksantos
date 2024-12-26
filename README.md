@@ -29,11 +29,11 @@
 ------------
 | Cursos                        | Status   | Certificação         |
 |-------------------------------|----------|----------------------|
-| Formação HTML Web Developer   | [ ] 40h  | Dio                  |
+| Formação HTML Web Developer   | [ ] 21h  | Dio                  |
 | Ri Happy - Front-End do Zero  | [x] 75h  | Dio                  |
 | Algoritmo                     | [x] 40h  | Curso em Vídeo       |
 | Formação Githut Certification | [x] 10h  | Dio                  |
-| Google UX Design              | [x] 200h | Coursera: Google+CIEE|
+| Google UX Design              | [ ] 200h | Coursera: Google+CIEE|
 
 ---
 
