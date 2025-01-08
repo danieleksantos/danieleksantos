@@ -1,7 +1,5 @@
 ### Olá, meu nome Daniele! 👩‍💻
 
-![cat](https://github.com/danieleksantos/danieleksantos/blob/main/gif%20cat.gif?raw=true)
-
 ❤️ Minha paixão pela tecnologia vem de um fascínio e curiosidade constantes por tudo que ela pode oferecer. <br>
  😃Aprender algo novo todos os dias é o que me motiva e me impulsiona a buscar soluções criativas. <br>
  🔨Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento. <br>
