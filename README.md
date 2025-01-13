@@ -26,7 +26,7 @@
 | Cursos                                   | Status   | Certificação           |
 |------------------------------------------|----------|------------------------|
 | Formação CSS Web Developer               | [ ] 43h  | Dio                    |
-| HTML E CSS- ambientes de desenvolvimento | [x] 8h   | Dio                    |
+| HTML E CSS- ambientes de desenvolvimento | [x] 8h   | Alura                  |
 | Formação HTML Web Developer              | [x] 21h  | Dio                    |
 | Ri Happy - Front-End do Zero             | [x] 75h  | Dio                    |
 | Algoritmo                                | [x] 40h  | Curso em Vídeo         |
