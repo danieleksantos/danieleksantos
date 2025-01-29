@@ -1,12 +1,12 @@
 ### Olá, meu nome Daniele! 👩‍💻
 
-❤️ Minha paixão pela tecnologia vem de um fascínio e curiosidade constantes por tudo que ela pode oferecer. <br>
- 😃Aprender algo novo todos os dias é o que me motiva e me impulsiona a buscar soluções criativas. <br>
- 🔨Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento. <br>
- 👩‍🎓Por isso, me considero uma eterna estudante, sempre pronta para evoluir e contribuir com inovação.
+🔨 Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia e motivada pela constante busca por conhecimento e inovação. 
+👩‍🎓 Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento. 
+🛠️ Possuo conhecimentos em HTML, CSS, algoritmos, resolução de problemas, UX e metodologias ágeis. 
+🌱Atualmente, estou aprofundando meus estudos em JavaScript.
 
 
-💻 Estou buscando oportunidades para ingressar no mercado de trabalho e dar continuidade aos estudos junto com a prática para progredir na carreira.
+🎯Busco uma oportunidade para ingressar no mercado de trabalho, aplicar e expandir meus conhecimentos na prática e colaborar com equipes de desenvolvimento.
 
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
