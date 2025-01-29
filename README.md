@@ -1,10 +1,11 @@
 ### Olá, meu nome Daniele! 👩‍💻
 
-🔨 Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia e motivada pela constante busca por conhecimento e inovação. 
-👩‍🎓 Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento. 
-🛠️ Possuo conhecimentos em HTML, CSS, algoritmos, resolução de problemas, UX e metodologias ágeis. 
-🌱Atualmente, estou aprofundando meus estudos em JavaScript.
+🔨 Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia e motivada pela constante busca por conhecimento e inovação.   
+👩‍🎓 Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento.   
+🛠️ Possuo conhecimentos em HTML, CSS, algoritmos, resolução de problemas, UX e metodologias ágeis.   
+🌱Atualmente, estou aprofundando meus estudos em JavaScript.  
 
+    
 
 🎯Busco uma oportunidade para ingressar no mercado de trabalho, aplicar e expandir meus conhecimentos na prática e colaborar com equipes de desenvolvimento.
 
