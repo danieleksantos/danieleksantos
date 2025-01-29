@@ -24,7 +24,7 @@
 ------------
 | Cursos                                   | Status   | Certificação           |
 |------------------------------------------|----------|------------------------|
-| Formação JavaScript Developer            | [x] 39h  | Dio                    |
+| Formação JavaScript Developer            | [🌱] 39h | Dio                    |
 | Formação CSS Web Developer               | [x] 43h  | Dio                    |
 | HTML E CSS- ambientes de desenvolvimento | [x] 8h   | Alura                  |
 | Formação HTML Web Developer              | [x] 21h  | Dio                    |
