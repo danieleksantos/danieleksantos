@@ -22,14 +22,15 @@
 </p>
   
 ------------
-| 📖 Curso                                  | ⏳ Status       | 🏅 Certificação         |
-|-------------------------------------------|-------------|------------------------------|
+| 📖 Curso                                  | ⏳ Status       | 🏅 Certificação        |
+|-------------------------------------------|------------------|------------------------|
 | **JavaScript Developer**                  | 🚀 Em andamento | Dio                     |
-| **Google UX Design**                      | 🚀 Em andamento | Coursera (Google + CIEE)|
+| Google UX Design                          | 🚀 Em andamento | Coursera (Google + CIEE)|
 | **CSS Web Developer**                     | ✅ Concluído    | Dio                     |
+| **HTML Web Developer**                    | ✅ Concluído    | Dio                     |
 | HTML e CSS - Ambientes de Desenvolvimento | ✅ Concluído    | Alura                   |
 | **Front-End do Zero (Ri Happy)**          | ✅ Concluído    | Dio                     |
-| **Algoritmos**                            | ✅ Concluído    | Curso em Vídeo          |
+| Algoritmos                                | ✅ Concluído    | Curso em Vídeo          |
 | **GitHub Certification**                  | ✅ Concluído    | Dio                     |
 
 
