@@ -22,16 +22,16 @@
 </p>
   
 ------------
-| Cursos                                   | Status   | Certificação           |
-|------------------------------------------|----------|------------------------|
-| Formação JavaScript Developer            | [🌱] 39h | Dio                    |
-| Formação CSS Web Developer               | [x] 43h  | Dio                    |
-| HTML E CSS- ambientes de desenvolvimento | [x] 8h   | Alura                  |
-| Formação HTML Web Developer              | [x] 21h  | Dio                    |
-| Ri Happy - Front-End do Zero             | [x] 75h  | Dio                    |
-| Algoritmo                                | [x] 40h  | Curso em Vídeo         |
-| Formação Githut Certification            | [x] 10h  | Dio                    |
-| Google UX Design                         | [ ] 200h | Coursera: Google+CIEE  |
+| Cursos                                   | Status     | Certificação           |
+|------------------------------------------|------------|------------------------|
+| Formação JavaScript Developer            | [🌱] 39h  | Dio                    |
+| Formação CSS Web Developer               | [✔️] 43h  | Dio                    |
+| HTML E CSS- ambientes de desenvolvimento | [✔️] 8h   | Alura                  |
+| Formação HTML Web Developer              | [✔️] 21h  | Dio                    |
+| Ri Happy - Front-End do Zero             | [✔️] 75h  | Dio                    |
+| Algoritmo                                | [✔️] 40h  | Curso em Vídeo         |
+| Formação Githut Certification            | [✔️] 10h  | Dio                    |
+| Google UX Design                         | [🌱] 200h | Coursera: Google+CIEE  |
 
 ---
 
