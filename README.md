@@ -3,7 +3,6 @@
 🔨 Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia e motivada pela constante busca por conhecimento e inovação.   
 👩‍🎓 Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento.   
 🛠️ Possuo conhecimentos em HTML, CSS, algoritmos, resolução de problemas, UX e metodologias ágeis.   
-🌱Atualmente, estou aprofundando meus estudos em JavaScript.  
 
     
 
@@ -16,10 +15,9 @@
 <br>
 
 <p align="center">
-  🌱 No momento estou estudando:
+  🌱 No momento estou aprofundando meus estudos em JavaScript
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
 </p>
   
