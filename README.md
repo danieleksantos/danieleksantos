@@ -1,4 +1,4 @@
-### Olá, meu nome Daniele! 👩‍💻
+## Olá, meu nome Daniele! 👩‍💻
 
 🔨 Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia e motivada pela constante busca por conhecimento e inovação.   
 👩‍🎓 Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento.   
@@ -13,7 +13,7 @@
 
 -----
 <br>
-## 🛠️ Tecnologias  
+ 🛠️ ##Tecnologias  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -43,16 +43,3 @@
 ![Daniele Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleksantos&size_weight=0.5&count_weight=0.5&theme=dracula)
 ![Daniele GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleksantos&show_icons=true&theme=dracula)    
           
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
