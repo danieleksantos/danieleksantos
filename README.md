@@ -29,9 +29,9 @@
 
 | **Curso**                                  | **Status**       | **Certificação**        |
 |--------------------------------------------|------------------|-------------------------|
-| **CS50: Introduction to Computer Science** | 🚀 Em andamento  | Harvard University      |
 | **JavaScript Developer**                   | 🚀 Em andamento  | Dio                     |
 | **Google UX Design**                       | 🚀 Em andamento  | Coursera (Google + CIEE)|
+| **CS50: Introduction to Computer Science** | ✅ Concluídoo    | Harvard University      |
 | **CSS Web Developer**                      | ✅ Concluído     | Dio                     |
 | **HTML Web Developer**                     | ✅ Concluído     | Dio                     |
 | **HTML e CSS - Ambientes de Desenvolvimento** | ✅ Concluído   | Alura                   |
