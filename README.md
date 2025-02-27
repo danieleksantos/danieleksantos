@@ -7,6 +7,7 @@
 🎯 Busco uma oportunidade para ingressar no mercado de trabalho, aplicar e expandir meus conhecimentos na prática e colaborar com equipes de desenvolvimento.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
+📫 [Acesse o meu Portfólio](https://github.com/danieleksantos/danieleksantos.github.io.git)
 
 -----
 
@@ -27,17 +28,17 @@
 
 ## 📖 Cursos
 
-| **Curso**                                  | **Status**       | **Certificação**        |
-|--------------------------------------------|------------------|-------------------------|
-| **JavaScript Developer**                   | 🚀 Em andamento  | Dio                     |
-| **Google UX Design**                       | 🚀 Em andamento  | Coursera (Google + CIEE)|
-| **CS50: Introduction to Computer Science** | ✅ Concluídoo    | Harvard University      |
-| **CSS Web Developer**                      | ✅ Concluído     | Dio                     |
-| **HTML Web Developer**                     | ✅ Concluído     | Dio                     |
-| **HTML e CSS - Ambientes de Desenvolvimento** | ✅ Concluído   | Alura                   |
-| **Front-End do Zero (Ri Happy)**           | ✅ Concluído     | Dio                     |
-| **Algoritmos**                             | ✅ Concluído     | Curso em Vídeo          |
-| **GitHub Certification**                   | ✅ Concluído     | Dio                     |
+| **Curso**                                     | **Status**       | **Certificação**        |
+|-----------------------------------------------|------------------|-------------------------|
+| **Google UX Design**                          | 🚀 Em andamento  | Coursera (Google + CIEE)|
+| **JavaScript Developer**                      | ✅ Em andamento  | Dio                     |
+| **CS50: Introduction to Computer Science**    | ✅ Concluídoo    | Harvard University      |
+| **CSS Web Developer**                         | ✅ Concluído     | Dio                     |
+| **HTML Web Developer**                        | ✅ Concluído     | Dio                     |
+| **HTML e CSS - Ambientes de Desenvolvimento** | ✅ Concluído     | Alura                   |
+| **Front-End do Zero (Ri Happy)**              | ✅ Concluído     | Dio                     |
+| **Algoritmos**                                | ✅ Concluído     | Curso em Vídeo          |
+| **GitHub Certification**                      | ✅ Concluído     | Dio                     |
 
 -----
 
