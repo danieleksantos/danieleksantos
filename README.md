@@ -7,7 +7,7 @@
 🎯 Busco uma oportunidade para ingressar no mercado de trabalho, aplicar e expandir meus conhecimentos na prática e colaborar com equipes de desenvolvimento.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
-📫 [Acesse o meu Portfólio](https://github.com/danieleksantos/danieleksantos.github.io.git)
+📫 [Acesse o meu Portfólio](https://danieleksantos.github.io/)
 
 -----
 
