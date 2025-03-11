@@ -1,10 +1,17 @@
 ## Olá, meu nome Daniele! 👩‍💻
+Estou em transição de carreira de bibliotecária para Desenvolvedora Front-End, movida pela paixão por tecnologia, principalmente desenvolvimento web, experiência do usuário (UX) e resolução de problemas. Sou motivada pela aprendizagem contínua e inovação, acreditando que a tecnologia é uma ferramenta poderosa para o crescimento.
+Tenho experiência com HTML, CSS, JavaScript, algoritmos, design responsivo, acessibilidade, princípios de UX/UI e metodologias ágeis (Scrum, Kanban). Atualmente, estou aprofundando meus conhecimentos em JavaScript (ES6+) utilizando React.
 
-🔨 Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia e motivada pela constante busca por conhecimento e inovação.   
-👩‍🎓 Sou movida por desafios e acredito que o aprendizado é uma ferramenta poderosa para crescimento.   
-🛠️ Possuo conhecimentos em HTML, CSS, algoritmos, resolução de problemas, UX e metodologias ágeis.   
+Busco uma oportunidade como Desenvolvedora Front-End Júnior para aplicar e expandir meus conhecimentos na prática, colaborar com equipes de desenvolvimento e contribuir para a criação de aplicações web intuitivas, acessíveis e de alto desempenho.
 
-🎯 Busco uma oportunidade para ingressar no mercado de trabalho, aplicar e expandir meus conhecimentos na prática e colaborar com equipes de desenvolvimento.
+
+
+
+I am transitioning my career from librarian to Front-End Developer, driven by a passion for technology, particularly web development, user experience (UX), and problem-solving. I am motivated by continuous learning and innovation, believing that technology is a powerful tool for growth.
+I have experience with HTML, CSS, JavaScript, algorithms, responsive design, accessibility, UX/UI principles, and agile methodologies (Scrum, Kanban). Currently, I am deepening my knowledge of JavaScript (ES6+) using React.
+
+🎯I am seeking an opportunity as a Junior Front-End Developer to apply and expand my skills in practice, collaborate with development teams, and contribute to building intuitive, accessible, and high-performance web applications.  
+
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
 📫 [Acesse o meu Portfólio](https://danieleksantos.github.io/)
@@ -31,6 +38,8 @@
 | **Curso**                                     | **Status**       | **Certificação**        |
 |-----------------------------------------------|------------------|-------------------------|
 | **Google UX Design**                          | 🚀 Em andamento  | Coursera (Google + CIEE)|
+| **React Developer**                           | 🚀 Em andamento  | Dio                     |
+| **CODAÍ 2.0: introdução à Programação Web**   | ✅ Em andamento  | Dio                     |
 | **JavaScript Developer**                      | ✅ Em andamento  | Dio                     |
 | **CS50: Introduction to Computer Science**    | ✅ Concluídoo    | Harvard University      |
 | **CSS Web Developer**                         | ✅ Concluído     | Dio                     |
