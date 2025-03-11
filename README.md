@@ -29,7 +29,7 @@ I have experience with HTML, CSS, JavaScript, algorithms, responsive design, acc
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-📌 Atualmente, estou aprofundando meus estudos em **JavaScript**. 🚀
+📌 Atualmente, estou aprofundando meus estudos em **JavaScript com React**. 🚀
 
 -----
 
