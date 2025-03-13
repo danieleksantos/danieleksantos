@@ -5,8 +5,8 @@ I have experience with HTML, CSS, JavaScript, algorithms, responsive design, acc
 🎯I am seeking an opportunity as a Junior Front-End Developer to apply and expand my skills in practice, collaborate with development teams, and contribute to building intuitive, accessible, and high-performance web applications.  
 
 
-📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
-📫 [Acesse o meu Portfólio](https://danieleksantos.github.io/)
+📫 [My Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
+📫 [My Portfolio](https://danieleksantos.github.io/)
 
 -----
 
