@@ -1,8 +1,9 @@
 ## Hello, my name is Daniele! 👩‍💻
-I am transitioning my career from librarian to Front-End Developer, driven by a passion for technology, particularly web development, user experience (UX), and problem-solving. I am motivated by continuous learning and innovation, believing that technology is a powerful tool for growth.
-I have experience with HTML, CSS, JavaScript, algorithms, responsive design, accessibility, UX/UI principles, and agile methodologies (Scrum, Kanban). Currently, I am deepening my knowledge of JavaScript (ES6+) using React.
+I am a Front-End Developer with experience in HTML, CSS, JavaScript, React, and responsive UI, focused on developing accessible, scalable, and high-performance interfaces.
 
-🎯I am seeking an opportunity as a Junior Front-End Developer to apply and expand my skills in practice, collaborate with development teams, and contribute to building intuitive, accessible, and high-performance web applications.  
+My journey includes self-learning, version control with Git/GitHub, and participation in practical projects, applying best practices, componentization, and performance optimization. I have knowledge of modern JavaScript, data manipulation, API consumption, and framework integration.
+
+🎯I am looking for an opportunity to apply my skills in a collaborative environment, contributing to the development team with clean code, performance optimization, and accessibility. Committed to continuous learning and innovation, I am ready to add value to the team and the company’s projects. 
 
 
 📫 [My Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
