@@ -5,6 +5,7 @@ My journey includes self-learning, version control with Git/GitHub, and particip
 
 🎯I am looking for an opportunity to apply my skills in a collaborative environment, contributing to the development team with clean code, performance optimization, and accessibility. Committed to continuous learning and innovation, I am ready to add value to the team and the company’s projects. 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleksantos/)
 
 📫 [My Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
 📫 [My Portfolio](https://danieleksantos.github.io/)
