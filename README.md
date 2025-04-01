@@ -26,7 +26,7 @@ My journey includes self-learning, version control with Git/GitHub, and particip
 
 
 
-<p align="center">🚀🚀 Currently, I am deepening my studies in **JavaScript and TypeScript with React**. 🚀🚀</p>
+<p align="center">🚀🚀 Currently, I am deepening my studies in <b>JavaScript and TypeScript with React</b>. 🚀🚀</p>
 
 
 
