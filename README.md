@@ -6,9 +6,8 @@ My journey includes self-learning, version control with Git/GitHub, and particip
 🎯I am looking for an opportunity to apply my skills in a collaborative environment, contributing to the development team with clean code, performance optimization, and accessibility. Committed to continuous learning and innovation, I am ready to add value to the team and the company’s projects. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleksantos/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://danieleksantos.github.io/)
 
-📫 [My Linkedin](https://www.linkedin.com/in/daniele-karina-dos-santos-a34b45204/)
-📫 [My Portfolio](https://danieleksantos.github.io/)
 
 -----
 
@@ -25,7 +24,11 @@ My journey includes self-learning, version control with Git/GitHub, and particip
   <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="Figma" />
 </p>
 
+
+
 🚀🚀 Currently, I am deepening my studies in **JavaScript and TypeScript with React**. 🚀🚀
+
+
 
 -----
 
