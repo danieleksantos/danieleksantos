@@ -24,7 +24,7 @@ My journey includes self-learning, version control with Git/GitHub, and particip
   <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="Figma" />
 </p>
 
-📌 Currently, I am deepening my studies in **JavaScript and TypeScript with React**. 🚀
+🚀🚀 Currently, I am deepening my studies in **JavaScript and TypeScript with React**. 🚀🚀
 
 -----
 
