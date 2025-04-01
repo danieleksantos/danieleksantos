@@ -23,7 +23,7 @@ My journey includes self-learning, version control with Git/GitHub, and particip
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-📌 Currently, I am deepening my studies in JavaScript with **JavaScript com React**. 🚀
+📌 Currently, I am deepening my studies in JavaScript with **TypeScript com React**. 🚀
 
 -----
 
@@ -33,9 +33,10 @@ My journey includes self-learning, version control with Git/GitHub, and particip
 |-----------------------------------------------|------------------|-------------------------|
 | **Google UX Design**                          | 🚀 Em andamento  | Coursera (Google + CIEE)|
 | **React Developer**                           | 🚀 Em andamento  | Dio                     |
-| **CODAÍ 2.0: introdução à Programação Web**   | ✅ Em andamento  | Dio                     |
-| **JavaScript Developer**                      | ✅ Em andamento  | Dio                     |
-| **CS50: Introduction to Computer Science**    | ✅ Concluídoo    | Harvard University      |
+| **JavaScript**                                | ✅ Concluído     | Curso em Vídeo          |
+| **CODAÍ 2.0: introdução à Programação Web**   | ✅ Concluído     | Growdev                 |
+| **JavaScript Developer**                      | ✅ Concluído     | Dio                     |
+| **CS50: Introduction to Computer Science**    | ✅ Concluído     | Harvard University      |
 | **CSS Web Developer**                         | ✅ Concluído     | Dio                     |
 | **HTML Web Developer**                        | ✅ Concluído     | Dio                     |
 | **HTML e CSS - Ambientes de Desenvolvimento** | ✅ Concluído     | Alura                   |
