@@ -4,13 +4,13 @@ I turn code into accessible and scalable experiences for people!
 My transition into Front-End Development comes from a passion for creating digital experiences that are more intuitive, responsive, and high-performing. I focus on building applications that follow best practices in SEO, accessibility, and performance optimization.
 
 My journey includes:
-● Hands-on projects and continuous self-taught learning
-● Building modular interfaces with HTML, CSS, JavaScript, and React
-● Componentization and state management (Context API, Hooks)
-● API consumption and performance optimization strategies
-● Version control with Git/GitHub
-● Applying UI/UX principles to improve usability
-● Understanding of agile methodologies (Scrum, Kanban)
+- Hands-on projects and continuous self-taught learning 
+- Building modular interfaces with HTML, CSS, JavaScript, and React 
+- Componentization and state management (Context API, Hooks) 
+- API consumption and performance optimization strategies 
+- Version control with Git/GitHub 
+- Applying UI/UX principles to improve usability 
+- Understanding of agile methodologies (Scrum, Kanban) 
 
 My perspective goes beyond the code: I aim to understand every detail of the interface to make the experience smoother, more intuitive, and accessible. My goal is to solve real problems and create solutions that truly make a difference for users.
 
