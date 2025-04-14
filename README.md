@@ -1,9 +1,20 @@
 ## Hello, my name is Daniele! 👩‍💻
-I am a Front-End Developer with experience in HTML, CSS, JavaScript, React, and responsive UI, focused on developing accessible, scalable, and high-performance interfaces.
+I turn code into accessible and scalable experiences for people!
 
-My journey includes self-learning, version control with Git/GitHub, and participation in practical projects, applying best practices, componentization, and performance optimization. I have knowledge of modern JavaScript, data manipulation, API consumption, and framework integration.
+My transition into Front-End Development comes from a passion for creating digital experiences that are more intuitive, responsive, and high-performing. I focus on building applications that follow best practices in SEO, accessibility, and performance optimization.
 
-🎯I am looking for an opportunity to apply my skills in a collaborative environment, contributing to the development team with clean code, performance optimization, and accessibility. Committed to continuous learning and innovation, I am ready to add value to the team and the company’s projects. 
+My journey includes:
+● Hands-on projects and continuous self-taught learning
+● Building modular interfaces with HTML, CSS, JavaScript, and React
+● Componentization and state management (Context API, Hooks)
+● API consumption and performance optimization strategies
+● Version control with Git/GitHub
+● Applying UI/UX principles to improve usability
+● Understanding of agile methodologies (Scrum, Kanban)
+
+My perspective goes beyond the code: I aim to understand every detail of the interface to make the experience smoother, more intuitive, and accessible. My goal is to solve real problems and create solutions that truly make a difference for users.
+
+🎯I’m looking for an opportunity to go beyond the lines of code — to collaborate on innovative projects, learn from inspiring people, and contribute with efficient solutions. For me, technology is just the tool; the real value lies in the impact it creates.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleksantos/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://danieleksantos.github.io/)
