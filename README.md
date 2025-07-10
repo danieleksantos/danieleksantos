@@ -58,6 +58,7 @@ My perspective goes beyond the code: I aim to understand every detail of the int
 | **CSS Web Developer**                         | ✅ Concluído     | Dio                     |
 | **HTML Web Developer**                        | ✅ Concluído     | Dio                     |
 | **HTML e CSS - Ambientes de Desenvolvimento** | ✅ Concluído     | Alura                   |
+| **Front-End: Minha Primeira Página Web**      | ✅ Concluído     | Eu Programo- PrograMaria|
 | **Front-End do Zero (Ri Happy)**              | ✅ Concluído     | Dio                     |
 | **Algoritmos**                                | ✅ Concluído     | Curso em Vídeo          |
 | **GitHub Certification**                      | ✅ Concluído     | Dio                     |
