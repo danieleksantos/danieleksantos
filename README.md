@@ -47,8 +47,10 @@ My perspective goes beyond the code: I aim to understand every detail of the int
 
 | **Curso**                                     | **Status**       | **Certificação**        |
 |-----------------------------------------------|------------------|-------------------------|
+| **Front-End com ReactJS**                     | 🚀 Em andamento  | Growdev                 |
 | **Google UX Design**                          | 🚀 Em andamento  | Coursera (Google + CIEE)|
 | **React Developer**                           | 🚀 Em andamento  | Dio                     |
+| **Banco de Dados MySQL**                      | ✅ Concluído     | Curso em Vídeo          |
 | **JavaScript**                                | ✅ Concluído     | Curso em Vídeo          |
 | **CODAÍ 2.0: introdução à Programação Web**   | ✅ Concluído     | Growdev                 |
 | **JavaScript Developer**                      | ✅ Concluído     | Dio                     |
