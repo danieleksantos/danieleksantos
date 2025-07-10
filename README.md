@@ -14,7 +14,7 @@ My journey includes:
 
 My perspective goes beyond the code: I aim to understand every detail of the interface to make the experience smoother, more intuitive, and accessible. My goal is to solve real problems and create solutions that truly make a difference for users.
 
-🎯I’m looking for an opportunity to go beyond the lines of code — to collaborate on innovative projects, learn from inspiring people, and contribute with efficient solutions. For me, technology is just the tool; the real value lies in the impact it creates.
+🎯I’m looking for an opportunity to go beyond the lines of code to collaborate on innovative projects, learn from inspiring people, and contribute with efficient solutions. For me, technology is just the tool, the real value lies in the impact it creates.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleksantos/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://danieleksantos.github.io/)
