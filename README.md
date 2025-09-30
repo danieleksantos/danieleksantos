@@ -17,8 +17,7 @@ My journey includes:
 
 🎯 I’m looking forward to keep growing, learning from inspiring people, and collaborating on projects that deliver real solutions for users.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleksantos/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://danieleksantos.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleksantos/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://danieleksantos.github.io/)  
 
 -----
 
