@@ -43,6 +43,7 @@ My journey includes:
 
 | **Curso**                                                | **Status**       | **Certificação**        |
 |----------------------------------------------------------|------------------|-------------------------|
+| **Bootcamp FullStack**                                   | 🚀 Em andamento  | Atlântico Avanti        |
 | **TECNÓLOGO: Análise e Desenvolvimento de Sistemas**     | 🚀 Em andamento  | UniFatecie              |
 | **Front-End com ReactJS**                                | 🚀 Em andamento  | Growdev                 |
 | **Google UX Design**                                     | 🚀 Em andamento  | Coursera (Google + CIEE)|
