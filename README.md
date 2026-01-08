@@ -36,7 +36,7 @@ My journey includes:
   <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="Figma" />
 </p>  
 
-<p align="center">🚀 Currently deepening my knowledge in <b>JavaScript and TypeScript with React</b>. 🚀</p>  
+<p align="center">🚀 Currently deepening my knowledge in <b> Software Quality Assurance</b>. 🚀</p>  
 
 -----
 
