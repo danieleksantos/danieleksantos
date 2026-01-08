@@ -68,5 +68,6 @@ My journey includes:
 
 -----
 
-![GitHub Stats](https://gitmystat.vercel.app/api?username=danieleksantos)
+![Metrics](https://metrics.lecoq.io/danieleksantos)
+
 
