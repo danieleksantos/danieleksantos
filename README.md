@@ -45,7 +45,6 @@ My journey includes:
 | **Curso**                                                | **Status**       | **Certificação**                   |
 |----------------------------------------------------------|------------------|------------------------------------|
 | **TECNÓLOGO: Análise e Desenvolvimento de Sistemas**     | 🚀 Em andamento  | UniFatecie                         |
-| **Google UX Design**                                     | 🚀 Em andamento  | Coursera (Google + CIEE)           |
 | **Introdução a Testes de Software**                      | ✅ Concluído     | DIO                                |
 | **Fundamentos em Teste de Software**                     | ✅ Concluído     | Instituto de Pesquisas ELDORADO    |
 | **Programaria Sprint Agentes de IA**                     | ✅ Concluído     | Programaria                        |
@@ -63,6 +62,7 @@ My journey includes:
 | **HTML e CSS - Ambientes de Desenvolvimento**            | ✅ Concluído     | Alura                              |
 | **Front-End: Minha Primeira Página Web**                 | ✅ Concluído     | Eu Programo - PrograMaria          |
 | **Front-End do Zero (Ri Happy)**                         | ✅ Concluído     | Dio                                |
+| **Google UX Design**                                     | ✅ Concluído     | Coursera (Google + CIEE)           |
 | **Algoritmos**                                           | ✅ Concluído     | Curso em Vídeo                     |
 | **GitHub Certification**                                 | ✅ Concluído     | Dio                                |
 
