@@ -6,12 +6,14 @@ I am currently a **System Analysis and Development student** and work as a **Fro
 I focus on building applications that follow best practices in **SEO, accessibility, and performance optimization**, combining technical quality with usability.  
 
 My journey includes:  
-- Building modular interfaces with HTML, CSS, JavaScript, and React  
-- Componentization and state management (Context API, Hooks)  
-- API consumption and performance optimization strategies  
-- Version control with Git/GitHub  
-- Applying UI/UX principles to improve usability  
-- Understanding of agile methodologies (Scrum, Kanban)  
+- Front-End: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Redux Toolkit, Axios, Material UI, Tailwind CSS, Bootstrap
+- Back-End: Node.js, Express.js, Prisma ORM, Zod, JWT
+- Databases: PostgreSQL, MySQL, MongoDB
+- APIs & Architecture: REST APIs, Single Page Applications (SPA), component-based architecture, Clean Code, SOLID principles
+- Accessibility & SEO: Web accessibility (A11y), semantic HTML, on-page SEO, mobile-first
+- Tools: Git, GitHub, Vercel, Render, Postman
+- Design & CMS: Figma, WordPress
+- IA: Chatbots, AI agents, multi-agent workflows, StackSpot, Google Gemini (SDK), context-oriented prompt design 
 
 🌱 Beyond code, my goal is to understand every detail of the interface to provide fluid, inclusive, and impactful experiences.  
 
@@ -40,26 +42,29 @@ My journey includes:
 
 ## 📖 Cursos  
 
-| **Curso**                                                | **Status**       | **Certificação**        |
-|----------------------------------------------------------|------------------|-------------------------|
-| **TECNÓLOGO: Análise e Desenvolvimento de Sistemas**     | 🚀 Em andamento  | UniFatecie              |
-| **Google UX Design**                                     | 🚀 Em andamento  | Coursera (Google + CIEE)|
-| **Front-End com ReactJS**                                | ✅ Concluído     | Growdev                 |
-| **Bootcamp FullStack**                                   | ✅ Concluído     | Atlântico Avanti        |
-| **Arquitetura de Sistemas**                              | ✅ Concluído     | Qualifica SP/FAT        |
-| **React Developer**                                      | ✅ Concluído     | Dio                     |
-| **Banco de Dados MySQL**                                 | ✅ Concluído     | Curso em Vídeo          |
-| **JavaScript**                                           | ✅ Concluído     | Curso em Vídeo          |
-| **CODAÍ 2.0: introdução à Programação Web**              | ✅ Concluído     | Growdev                 |
-| **JavaScript Developer**                                 | ✅ Concluído     | Dio                     |
-| **CS50: Introduction to Computer Science**               | ✅ Concluído     | Harvard University      |
-| **CSS Web Developer**                                    | ✅ Concluído     | Dio                     |
-| **HTML Web Developer**                                   | ✅ Concluído     | Dio                     |
-| **HTML e CSS - Ambientes de Desenvolvimento**            | ✅ Concluído     | Alura                   |
-| **Front-End: Minha Primeira Página Web**                 | ✅ Concluído     | Eu Programo - PrograMaria|
-| **Front-End do Zero (Ri Happy)**                         | ✅ Concluído     | Dio                     |
-| **Algoritmos**                                           | ✅ Concluído     | Curso em Vídeo          |
-| **GitHub Certification**                                 | ✅ Concluído     | Dio                     |
+| **Curso**                                                | **Status**       | **Certificação**                   |
+|----------------------------------------------------------|------------------|------------------------------------|
+| **TECNÓLOGO: Análise e Desenvolvimento de Sistemas**     | 🚀 Em andamento  | UniFatecie                         |
+| **Google UX Design**                                     | 🚀 Em andamento  | Coursera (Google + CIEE)           |
+| **Introdução a Testes de Software**                      | ✅ Concluído     | DIO                                |
+| **Fundamentos em Teste de Software**                     | ✅ Concluído     | Instituto de Pesquisas ELDORADO    |
+| **Programaria Sprint Agentes de IA**                     | ✅ Concluído     | Programaria                        |
+| **Front-End com ReactJS**                                | ✅ Concluído     | Growdev                            |
+| **Bootcamp FullStack**                                   | ✅ Concluído     | Atlântico Avanti                   |
+| **Arquitetura de Sistemas**                              | ✅ Concluído     | Qualifica SP/FAT                   |
+| **React Developer**                                      | ✅ Concluído     | Dio                                |
+| **Banco de Dados MySQL**                                 | ✅ Concluído     | Curso em Vídeo                     |
+| **JavaScript**                                           | ✅ Concluído     | Curso em Vídeo                     |
+| **CODAÍ 2.0: introdução à Programação Web**              | ✅ Concluído     | Growdev                            |
+| **JavaScript Developer**                                 | ✅ Concluído     | Dio                                |
+| **CS50: Introduction to Computer Science**               | ✅ Concluído     | Harvard University                 |
+| **CSS Web Developer**                                    | ✅ Concluído     | Dio                                |
+| **HTML Web Developer**                                   | ✅ Concluído     | Dio                                |
+| **HTML e CSS - Ambientes de Desenvolvimento**            | ✅ Concluído     | Alura                              |
+| **Front-End: Minha Primeira Página Web**                 | ✅ Concluído     | Eu Programo - PrograMaria          |
+| **Front-End do Zero (Ri Happy)**                         | ✅ Concluído     | Dio                                |
+| **Algoritmos**                                           | ✅ Concluído     | Curso em Vídeo                     |
+| **GitHub Certification**                                 | ✅ Concluído     | Dio                                |
 
 -----
 
