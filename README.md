@@ -68,6 +68,5 @@ My journey includes:
 
 -----
 
-![Metrics](https://metrics.lecoq.io/danieleksantos)
 
 
