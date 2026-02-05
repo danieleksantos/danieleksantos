@@ -73,7 +73,6 @@ My journey includes:
 </div>
 
 <br>
-<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danieleksantos&layout=compact&theme=dracula" />
 </div>
