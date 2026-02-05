@@ -68,5 +68,4 @@ My journey includes:
 
 -----
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieleksantos&theme=dark)](https://git.io/streak-stats)
+[![Resumo de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=danieleksantos&&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
