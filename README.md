@@ -9,7 +9,7 @@ My journey includes:
 - Front-End: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Redux Toolkit, Axios, Material UI, Tailwind CSS, Bootstrap
 - Back-End: Node.js, Express.js, Prisma ORM, Zod, JWT
 - Databases: PostgreSQL, MySQL, MongoDB
-- APIs & Architecture: REST APIs, Single Page Applications (SPA), component-based architecture, Clean Code, SOLID principles
+- APIs & Architecture: Docker, REST APIs, Single Page Applications (SPA), component-based architecture, Clean Code, SOLID principles
 - Accessibility & SEO: Web accessibility (A11y), semantic HTML, on-page SEO, mobile-first
 - Tools: Git, GitHub, Vercel, Render, Postman
 - Design & CMS: Figma, WordPress
@@ -40,9 +40,9 @@ My journey includes:
 
 -----
 
-## 📖 Cursos  
+## 📖 Courses  
 
-| **Curso**                                                | **Status**       | **Certificação**                   |
+| **Course**                                                | **Status**       | **Certificação**                   |
 |----------------------------------------------------------|------------------|------------------------------------|
 | **TECNÓLOGO: Análise e Desenvolvimento de Sistemas**     | 🚀 Em andamento  | UniFatecie                         |
 | **Introdução a Testes de Software**                      | ✅ Concluído     | DIO                                |
@@ -69,4 +69,4 @@ My journey includes:
 -----
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieleksantos&theme=dark)](https://git.io/streak-stats)
