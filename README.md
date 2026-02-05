@@ -70,8 +70,6 @@ My journey includes:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danieleksantos&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danieleksantos&layout=compact&theme=dracula" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danieleksantos&theme=dracula&date_format=j%20M%5B%20Y%5D" />
-</div>
