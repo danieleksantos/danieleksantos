@@ -68,4 +68,7 @@ My journey includes:
 
 -----
 
-[![Resumo de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=danieleksantos&&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieleksantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danieleksantos&theme=dracula" />
+</div>
